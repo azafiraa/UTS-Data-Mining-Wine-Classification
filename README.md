@@ -28,26 +28,31 @@ The target variable predicted in this project is:
    - Checking dataset structure
    - Displaying statistical summaries
    - Identifying feature information
+
 **2. Data Preprocessing**
    - Missing value checking
    - Duplicate data handling
    - Data cleaning
    - Feature scaling using StandardScaler
+
 **3. Exploratory Data Analysis (EDA)**
    - Distribution analysis of wine quality
    - Correlation analysis between variables
    - Heatmap visualization
+
 **4. Machine Learning Classification**
    Several classification algorithms were implemented and compared, including:
    - Logistic Regression
    - K-Nearest Neighbor (KNN)
    - Decision Tree
    - Random Forest
+
 **5. Model Evaluation**
    The performance of each model was evaluated using:
    - Accuracy Score
    - Confusion Matrix
    - Classification Report
+
 **7. Prediction and Export**
    The best-performing model was used to predict wine quality on the testing dataset.
    Prediction results were exported into:
