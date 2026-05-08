@@ -73,6 +73,7 @@ This project was developed using:
 The final output of this project is a prediction file containing:
 - Id
 - Quality
+
 which is generated from the trained machine learning classification model.
 
 ## **Repository Contents**
