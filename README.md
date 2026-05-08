@@ -20,6 +20,7 @@ The dataset used in this project consists of physicochemical properties of wine 
 - Alcohol
 
 The target variable predicted in this project is:
+
 **Quality** → wine quality score
 
 ## **Project Workflow**
