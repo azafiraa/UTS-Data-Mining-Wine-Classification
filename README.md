@@ -1,4 +1,4 @@
-# UTS Data Mining – Wine Quality Classification
+# # Wine Quality Prediction Project
 
 ## **About The Project**
 This project was created to fulfill the Mid-Term Examination (UTS) assignment for the Data Mining course.
